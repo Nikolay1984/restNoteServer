@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b532ddb7-3d94-4a33-8154-b15f77ad86db" name="restNoteServer" url="http://o98228tx.beget.tech">
+        <fileTransfer host="o98228tx.beget.tech" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="9997af4d-9a8a-4b3b-9a7a-37dedc36eaf7" name="restNoteClient" url="http://o993270b.beget.tech">
+        <fileTransfer host="o993270b.beget.tech" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

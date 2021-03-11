@@ -1,0 +1,5 @@
+
+m	php:S1192+"LDefine a constant instead of duplicating this literal "status_text" 8 times.(®Ø¯îøÿÿÿÿ8Ë‚àß€/
+P	php:S1172s"4Remove the unused function parameter "$rawResponse".(½öÅ8Ë‚àß€/
+h	php:S1192*"LDefine a constant instead of duplicating this literal "status_code" 8 times.(“øÁö8Ë‚àß€/
+i	php:S1192<"HDefine a constant instead of duplicating this literal "headers" 3 times.(³ª—ùÿÿÿÿ8Ë‚àß€/
